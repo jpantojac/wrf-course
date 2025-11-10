@@ -1,0 +1,14 @@
+name: curso-wrf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - netCDF4
+  - xarray
+  - matplotlib
+  - pandas
+  - numpy
+  - cartopy
+  - wrf-python
+  - metpy
+  - jupyterlab
