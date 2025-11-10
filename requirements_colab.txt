@@ -4,5 +4,4 @@ matplotlib
 pandas
 numpy
 cartopy
-wrf-python
 metpy
