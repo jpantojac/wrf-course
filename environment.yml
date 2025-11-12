@@ -9,5 +9,7 @@ dependencies:
   - pandas
   - numpy
   - cartopy
+  - notebook
+  - jupyterlab
   - metpy
   - jupyterlab
